@@ -432,3 +432,37 @@
     padding-right: 0;
     border-right: none;
 }
+
+/*timetable-page*/
+.my-container-1 {
+    margin-bottom: 10px;
+  }
+  .my-container {
+    border: 2px solid rgb(75, 73, 73);
+    background-color: #f5f2d0;
+  }
+  .my-row {
+    border: 2px solid rgb(75, 73, 73);
+    background-color: #f5f2d0;
+    line-height: 22px;
+  }
+  
+  .my-col {
+    border: 1px solid rgb(75, 73, 73);
+    background-color: #f5f2d0;
+  }
+  .bus-depo-heading {
+    margin: auto;
+    position: relative;
+  }
+  
+  .Terminal-above-map {
+    font-size: 35px;
+    margin: auto;
+    color: #fff;
+    text-align: center;
+    font-family: "Tangerine", cursive;
+  }
+
+
+  
