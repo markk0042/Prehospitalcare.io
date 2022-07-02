@@ -317,6 +317,12 @@
     z-index: 1;
 }
 
+@media (max-width: 667px) {
+    .upperandloweranatomy {
+        display: none;
+    }
+}
+
 @media (min-width: 768px) {
     .testimonial-carousel::before,
     .testimonial-carousel::after {
@@ -478,3 +484,4 @@ width: 30%;
 .top-heading{
 text-align: center;
 }
+
